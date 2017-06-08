@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Ermal's Personal Website
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -9,17 +9,17 @@ logo:             # filename of a logo image that has been placed into your imag
 owner:
   name: Ermal Feleqi
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #feleqi@gmail.com
+  bio: "PhD in Mathematics"
+  email: feleqi@gmail.com
   twitter: #username
-  facebook: #feleqi
+  facebook: feleqi
   instagram: #username
   linkedin: #username
   github: #username
-  researchgate: #feleqi
+  researchgate: feleqi
   mendeley: #username
   google:
-    plus: #username
+    plus: feleqi
     analytics:
     verify:
     scholar: #id
