@@ -1,5 +1,6 @@
 ---
 layout: resume
+title: Curriculum Vitae
 ---
 ## Current position
 
