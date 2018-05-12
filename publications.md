@@ -2,10 +2,6 @@
 layout: page
 ---
 
-# Publications
-
-Test
-
 ## Articles
 
 - F. Dragoni and E. Feleqi,  [PDEs from ergodic Mean Field Games with Hörmander diffusions](/docs/Feleqi_publication9.pdf),  _Calculus of Variations and PDEs_, (accepted).
