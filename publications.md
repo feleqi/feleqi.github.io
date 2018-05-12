@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Publications
+
 Test
 
 ## Articles
