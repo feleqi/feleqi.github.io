@@ -3,7 +3,12 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+<!-- Current Position Description -->
+
+Associate Professor 
+Department of Mathematics 
+University of Vlora, Albania
+
 
 ## Education
 
