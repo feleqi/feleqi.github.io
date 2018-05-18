@@ -28,7 +28,7 @@ title: Publications
 ## Conference Papers
 
 1. E. Feleqi, [Commutators of smooth and nonsmooth vector fields](https://sites.google.com/a/fshn.edu.al/mathdaysintirana/), 
-_Proceedings Book of the First International Conference "Mathematics Days in Tirana 2015"_, Dicember 11 -- 12, 2015 Tirana, Albania, pp. 7--20 (2016). Download [PDF]().
+_Proceedings Book of the First International Conference "Mathematics Days in Tirana 2015"_, Dicember 11 -- 12, 2015 Tirana, Albania, pp. 7--20 (2016). Download [PDF](/docs/proceedings/feleqi_commutators.pdf).
 
 
 
