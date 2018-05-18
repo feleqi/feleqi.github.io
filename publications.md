@@ -19,9 +19,9 @@ title: Publications
 
 1. E. Feleqi, [The derivation of ergodic mean field game equations for several populations of players](https://link.springer.com/article/10.1007/s13235-013-0088-5), _Dyn. Games Appl._, **4** (2013). Download [PDF](/docs/Feleqi_publication5.pdf).
 
+1. V. Burenkov and E. Feleqi, [Spectral stability estimates for the eigenfunctions of second order elliptic operators](https://onlinelibrary.wiley.com/doi/abs/10.1002/mana.201100250), _Math. Nachr._, **285**, No. 11--12 (2012) 1357--1369. Download [PDF](/docs/Feleqi_publication2pdf).
 
-1. V. Burenkov and E. Feleqi, [Extension of the notion of a gap to differential operators defined on different open sets](https://www.researchgate.net/publication/264370512_Extension_of_the_notion_of_a_gap_to_differential_operators_defined_on_different_open_sets)
-   Download [PDF](/docs/feleqipublication1.pdf).
+1. V. Burenkov and E. Feleqi, [Extension of the notion of a gap to differential operators defined on different open sets](https://www.researchgate.net/publicatio/264370512_Extension_of_the_notion_of_a_gap_to_differential_operators_defined_on_different_open_sets), _Math. Nachr._, **286*, No. 11--12 (2013) 518--535. Download [PDF](/docs/feleqipublication1.pdf).
 
 
 
