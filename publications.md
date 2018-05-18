@@ -33,6 +33,13 @@ _Proceedings Book of the First International Conference "Mathematics Days in Tir
 ## PhD Thesis 
 E. Feleqi, [Spectral stability estimates for the eigenfunctions of second order elliptic operators](/docs/Feleqi_PHDTHESIS.pdf). Download [PDF](/docs/Feleqi_PHDTHESIS.pdf). 
 
+## Preprints 
+1. E. Feleqi, [Joint time-state generalized semiconcavity of the value function  of a jump diffusion optimal control problem](), (under review). 
+
+1. M. Bardi, E. Feleqi and P. Soravia, [Regularity of the minimum time and of solutions of eikonal equations via generalized Lie brackets](). 
+
+1. E. Feleqi and F. Rampazzo, [An L^\infty Chow-Rashevski's theorem](). 
+
 
 
 
