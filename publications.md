@@ -11,9 +11,14 @@ title: Publications
 
 1. E. Feleqi and Franco Rampazzo, [Integral representations for  bracket-generating multi-flows](http://www.aimsciences.org/journals/displayArticlesnew.jsp?paperID=10990), _Discrete Contin. Dyn. Syst. Ser. A.,_ **35**, No. 9 (2015) 4345--4366. Download [PDF](/docs/Feleqi_publication8.pdf). 
 
+1. E. Feleqi, [Estimates for the deviation of solutions and eigenfunctions of second-order elliptic Dirichlet boundary value problems under domain perturbation](https://www.sciencedirect.com/science/article/pii/S0022039615005811), _J. Differential Equations_, **260**, no. 4  (2016) 3448--3476. Download [PDF](/docs/Feleqi_publication3.pdf). 
+
 1. E. Feleqi, [Generalized semiconcavity of the value function  of a jump diffusion optimal control problem](https://link.springer.com/article/10.1007/s00030-014-0304-z), _NoDEA - Nonlinear Differential Equations Appl._ **22** No. 4 (2015) 777--809. Download [PDF](/docs/Feleqi_publication6.pdf). 
 
 1. M. Bardi and E. Feleqi, [Nonlinear elliptic systems and mean-field games](https://link.springer.com/article/10.1007/s00030-016-0397-7), _NoDEA - Nonlinear Differential Equations Appl._, **23**,  no. 4, Art. 44, 32 (2016). Download [PDF](/docs/Feleqi_publication4.pdf).
+
+1. E. Feleqi, [The derivation of ergodic mean field game equations for several populations of players](https://link.springer.com/article/10.1007/s13235-013-0088-5), _Dyn. Games Appl._, **4** (2013). Download [PDF](/docs/Feleqi_publication5.pdf).
+
 
 1. V. Burenkov and E. Feleqi, [Extension of the notion of a gap to differential operators defined on different open sets](https://www.researchgate.net/publication/264370512_Extension_of_the_notion_of_a_gap_to_differential_operators_defined_on_different_open_sets)
    Download [PDF](/docs/feleqipublication1.pdf).
