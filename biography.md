@@ -9,68 +9,50 @@ title: Curriculum Vitae
 Associate Professor <br>
 Department of Mathematics <br>
 University of Vlora, Albania
+Head of the Reseach Group
+of Analysis and Geometry   
 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2007 - 2010`
+__University of Padova, Italy__
+PhD in Mathematics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2002 - 2006`
+__University of Bari, Italy__
+MSc and BSc in Mathematics 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2002`
+Third Place at the Albanian Olympiad of Physics
+`2002`, `2001`
+First Placement at the Regional Level of the Albaninan Mathematics Olympiad, Vlorë  
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
-
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Associate Professor__, University of Vlora, Albania 
 
-- Task
-- Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Jan.- Jun. 2019`
+__Visiting Professor__, KAUST, Saudi Arabia
 
-- Task
-- Task
+`2016 - 2017`
+__Research Associate__, Cardiff University, UK
 
+`2010 - 2015`
+__Research Associate__, University of Padova, Italy
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
