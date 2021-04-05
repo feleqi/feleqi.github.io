@@ -32,7 +32,8 @@ First Placement at the Regional Level of the Albaninan Mathematics Olympiad, Vlo
 
 ## Publications
 
-<!-- A list is also available [here](https://feleqi.github.io/presentations/) -->
+A list is also available [here](https://feleqi.github.io/presentations/) 
+<-- something -->
 
 
 ## Occupation
