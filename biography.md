@@ -2,6 +2,9 @@
 layout: resume
 title: Curriculum Vitae
 ---
+
+[PDF](/docs/FeleqiCV.pdf)
+
 ## Current position
 
 <!-- Current Position Description -->
