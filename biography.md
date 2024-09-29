@@ -1,7 +1,6 @@
 ---
 layout: resume
-title: Curriculum Vitae ([PDF](/docs/FeleqiCV.pdf){:target="_blank"}
-)
+title: Curriculum Vitae ([PDF](/docs/FeleqiCV.pdf){:target="_blank"})
 ---
 
 [PDF](/docs/FeleqiCV.pdf){:target="_blank"}
