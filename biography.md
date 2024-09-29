@@ -3,7 +3,8 @@ layout: resume
 title: Curriculum Vitae
 ---
 
-[PDF](/docs/FeleqiCV.pdf)
+<!-- [PDF](/docs/FeleqiCV.pdf) -->
+[PDF](https://www.dropbox.com/scl/fi/u89yqozygg32aagqsvj9q/FeleqiCV.pdf?rlkey=en658s3pdrd3553jt44fp4fn9&dl=0)
 
 ## Current position
 
