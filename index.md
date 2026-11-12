@@ -8,7 +8,7 @@ title: ' '
 
 ## Background information
 
-I graduated from the University of Bari, Italy (2002--2006) and obtained my PhD from the University of Padova, Italy (2007--2010) under the supervision of Victor Burenkov with a thesis on the _Spectral Stability of Second-Order Elliptic Operators Under Domain Perturbation_. Then I spent roughly five years (2010--2015) as a post-doc. at Padova and collaborated there with Victor Burenkov, Martino Bardi and Pierpaolo Soravia on PDEs arising from Differential Games and Optimal Control, and Franco Rampazzo on Geometric Control Theory and Nonsmooth Analysis. Next, I spent a year (2016--2017) as a Research Associate at Cardiff University, UK working with Federica Dragoni on systems of PDEs of Hörmander type arising from a particular class of Differential Games and six months as Visiting Professor at KAUST, Saudi Arabia to work with Diogo Gomes and Teruo Tada on Hörmander MFGs as well. Since 2016, I am an Associate Professor at the University of Vlora, Albania. In addition, since 2017 I head the teaching and research Group of _Mathematical Analysis, Differential Equations and Geometry_ as well. Please see my CV for additional details.  
+I graduated from the University of Bari, Italy (2002--2006) and obtained my PhD from the University of Padova, Italy (2007--2009) under the supervision of Victor Burenkov with a thesis on the _Spectral Stability of Second-Order Elliptic Operators Under Domain Perturbation_. Then I spent roughly five years (2010--2015) as a post-doc. at Padova and collaborated there with Victor Burenkov, Martino Bardi and Pierpaolo Soravia on PDEs arising from Differential Games and Optimal Control, and Franco Rampazzo on Geometric Control Theory and Nonsmooth Analysis. Next, I spent a year (2016--2017) as a Research Associate at Cardiff University, UK working with Federica Dragoni on systems of PDEs of Hörmander type arising from a particular class of Differential Games and six months as Visiting Professor at KAUST, Saudi Arabia to work with Diogo Gomes and Teruo Tada on Hörmander MFGs as well. Since 2015, I am an Associate Professor at the University of Vlora, Albania, where since 2017 I also head the teaching and research Group of _Analysis and Geometry_. In 2025--2026 I led a READ Program grant of the Albanian-American Development Foundation, in collaboration with Fioralba Cakoni (Rutgers University), on qualitative analysis and inverse problems for nonlinear PDEs; within this project we organised the [Workshop and Summer School on Inverse Problems and Nonlinear PDEs (IPNPDE-2026)](https://sites.google.com/univlora.edu.al/ipnpde-2026/home) in Vlorë. Please see my [CV](/biography/) for additional details.  
 
 
 ## Current Topics of Research:
@@ -16,6 +16,7 @@ I graduated from the University of Bari, Italy (2002--2006) and obtained my PhD 
 - Iterated Lie brackets for non-smooth vector fields,
 - Geometric Control Theory, sub-Riemannian Geometry, PDEs of Hörmander type,
 - Mean Field Games,
+- Inverse problems for PDEs, in particular for equations arising from optimal control and game theory,
 - PDEs, mostly arising from optimal control and differential games,
 - Stability estimates for solutions of elliptic boundary value problems under domain perturbation.
 		
