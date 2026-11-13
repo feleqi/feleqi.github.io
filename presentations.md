@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Presentations
+title: Talks
 ---
-
-## Talks
 
 1. A nonsmooth Chow–Rashevski's theorem, _Optimization, State Constraints and Geometric Control_ (conference on the occasion of the 60th birthday of Giovanni Colombo and Franco Rampazzo), University of Padova, Italy, May 25, 2018. [Slides (PDF)](/docs/talks/2018_Padova_Chow-Rashevskii.pdf)
 
