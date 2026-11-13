@@ -3,41 +3,18 @@ layout: page
 title: Presentations
 ---
 
-## Articles
+## Talks
 
-1. F. Dragoni and E. Feleqi,  [PDEs from ergodic Mean Field Games with Hörmander diffusions](/docs/Feleqi_publication9.pdf),  _Calculus of Variations and PDEs_, (accepted). Download [PDF](/docs/Feleqi_publication9.pdf).
+1. A nonsmooth Chow–Rashevski's theorem, _Optimization, State Constraints and Geometric Control_ (conference on the occasion of the 60th birthday of Giovanni Colombo and Franco Rampazzo), University of Padova, Italy, May 25, 2018. [Slides (PDF)](/docs/talks/2018_Padova_Chow-Rashevskii.pdf)
 
-1. E. Feleqi and Franco Rampazzo, [Iterated Lie brackets for nonsmooth vector fields](https://link.springer.com/article/10.1007/s00030-017-0484-4), _NoDEA - Nonlinear Differential Equations Appl.,_ 24: 61 (2017). Download [PDF](/docs/Feleqi_publication8.pdf). 
+1. Eikonal equations structured on non-smooth Hörmander type vector fields, _LMS Network meeting "Generalised Solutions for Nonlinear PDEs"_ (Cardiff, Bath and Reading), University of Bath, UK, July 11, 2016. [Slides (PDF)](/docs/talks/2016_Bath_eikonal-equations.pdf)
 
-1. E. Feleqi and Franco Rampazzo, [Integral representations for  bracket-generating multi-flows](http://www.aimsciences.org/journals/displayArticlesnew.jsp?paperID=10990), _Discrete Contin. Dyn. Syst. Ser. A.,_ **35**, No. 9 (2015) 4345--4366. Download [PDF](/docs/Feleqi_publication8.pdf). 
+1. Hölder continuity for solutions of eikonal equations, _New Trends on Nonlinear PDEs: From Theory to Applications_, Cardiff University, UK, June 22, 2016. [Slides (PDF)](/docs/talks/2016_Cardiff_Holder-continuity.pdf)
 
-1. E. Feleqi, [Estimates for the deviation of solutions and eigenfunctions of second-order elliptic Dirichlet boundary value problems under domain perturbation](https://www.sciencedirect.com/science/article/pii/S0022039615005811), _J. Differential Equations_, **260**, no. 4  (2016) 3448--3476. Download [PDF](/docs/Feleqi_publication3.pdf). 
+1. Towards a useful set-valued iterated Lie bracket (joint work with Franco Rampazzo), _Analysis and Geometry in Control Theory and its Applications_ (with a special tribute to Hélène Frankowska and Hector J. Sussmann), INdAM, Rome, Italy, June 9–13, 2014. [Slides (PDF)](/docs/talks/2014_Rome_set-valued-Lie-bracket.pdf)
 
-1. E. Feleqi, [Generalized semiconcavity of the value function  of a jump diffusion optimal control problem](https://link.springer.com/article/10.1007/s00030-014-0304-z), _NoDEA - Nonlinear Differential Equations Appl._ **22** No. 4 (2015) 777--809. Download [PDF](/docs/Feleqi_publication6.pdf). 
+1. Generalized semiconcavity of the value function in (stochastic) optimal control, _Seminari di Equazioni Differenziali e Applicazioni_, University of Padova, Italy, February 7, 2014. [Slides (PDF)](/docs/talks/2014_Padova_generalized-semiconcavity.pdf)
 
-1. M. Bardi and E. Feleqi, [Nonlinear elliptic systems and mean-field games](https://link.springer.com/article/10.1007/s00030-016-0397-7), _NoDEA - Nonlinear Differential Equations Appl._, **23**,  no. 4, Art. 44, 32 (2016). Download [PDF](/docs/Feleqi_publication4.pdf).
+1. Stability estimates for solutions and eigenfunctions of second-order elliptic Dirichlet BVPs under domain perturbation, _Minicourses in Mathematical Analysis 2013_, University of Padova, Italy, June 13, 2013. [Slides (PDF)](/docs/talks/2013_Padova_domain-perturbation.pdf)
 
-1. E. Feleqi, [The derivation of ergodic mean field game equations for several populations of players](https://link.springer.com/article/10.1007/s13235-013-0088-5), _Dyn. Games Appl._, **4** (2013). Download [PDF](/docs/Feleqi_publication5.pdf).
-
-1. V. Burenkov and E. Feleqi, [Spectral stability estimates for the eigenfunctions of second order elliptic operators](https://onlinelibrary.wiley.com/doi/abs/10.1002/mana.201100250), _Math. Nachr._, **285**, No. 11--12 (2012) 1357--1369. Download [PDF](/docs/Feleqi_publication2pdf).
-
-1. V. Burenkov and E. Feleqi, [Extension of the notion of a gap to differential operators defined on different open sets](https://www.researchgate.net/publicatio/264370512_Extension_of_the_notion_of_a_gap_to_differential_operators_defined_on_different_open_sets), _Math. Nachr._, **286*, No. 11--12 (2013) 518--535. Download [PDF](/docs/feleqipublication1.pdf).
-
-
-
-## Conference Papers
-
-1. E. Feleqi, [Commutators of smooth and nonsmooth vector fields](https://sites.google.com/a/fshn.edu.al/mathdaysintirana/), 
-_Proceedings Book of the First International Conference "Mathematics Days in Tirana 2015"_, Dicember 11 -- 12, 2015 Tirana, Albania, pp. 7--20 (2016). Download [PDF](/docs/proceedings/Feleqi_commutators.pdf).
-
-## PhD Thesis 
-E. Feleqi, [Spectral stability estimates for the eigenfunctions of second order elliptic operators](/docs/Feleqi_PHDTHESIS.pdf). Download [PDF](/docs/Feleqi_PHDTHESIS.pdf). 
-
-<!--- 
-## Preprints 
-1. E. Feleqi, [Joint time-state generalized semiconcavity of the value function  of a jump diffusion optimal control problem](), (under review). 
-
-1. M. Bardi, E. Feleqi and P. Soravia, [Regularity of the minimum time and of solutions of eikonal equations via generalized Lie brackets](). 
-
-1. E. Feleqi and F. Rampazzo, [An L^\infty Chow-Rashevski's theorem](). 
---->
+The complete list of my talks is in my [CV](/docs/FeleqiCV.pdf){:target="_blank"}.
