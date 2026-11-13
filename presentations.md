@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+1. A Strong Maximum Principle for Sums of Squares of Non-Smooth Vector Fields via Set-Valued Lie Brackets, _NMC-2026_, Tirana, Albania, November 9–10, 2026. [Slides (PDF)](https://drive.google.com/file/d/1ujP4We9XcCHMlNhQCapr7QmYnoQBDZ7u/view)
+
+1. A Strong Maximum Principle for Non-Smooth Sums of Squares, _TNS 2026_, Vlorë, Albania, October 30–31, 2026. [Slides (PDF)](https://drive.google.com/file/d/1nKG7hIyBJP-xM7mxUzTx_0n2rrg9Xas5/view)
+
+1. A Nonsmooth Chow–Rashevskii Theorem, _Seminar of the Laboratoire de Mathématiques de Bretagne Atlantique (LMBA, CNRS UMR 6205)_, Université de Bretagne Occidentale, Brest, France, 2026. [Slides (PDF)](https://drive.google.com/file/d/1NBezZUdgq4A9xA9XdD2GXhW-BWFtBc8p/view)
+
 1. A nonsmooth Chow–Rashevski's theorem, _Optimization, State Constraints and Geometric Control_ (conference on the occasion of the 60th birthday of Giovanni Colombo and Franco Rampazzo), University of Padova, Italy, May 25, 2018. [Slides (PDF)](/docs/talks/2018_Padova_Chow-Rashevskii.pdf)
 
 1. Mean Field Games with Hörmander diffusions, _Seminari di Equazioni Differenziali e Applicazioni_, University of Padova, Italy, December 4, 2017. [Slides (PDF)](/docs/talks/2017_Padova_MFG-Hormander-diffusions.pdf)
