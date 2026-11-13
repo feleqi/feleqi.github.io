@@ -5,6 +5,8 @@ title: Talks
 
 1. A nonsmooth Chow–Rashevski's theorem, _Optimization, State Constraints and Geometric Control_ (conference on the occasion of the 60th birthday of Giovanni Colombo and Franco Rampazzo), University of Padova, Italy, May 25, 2018. [Slides (PDF)](/docs/talks/2018_Padova_Chow-Rashevskii.pdf)
 
+1. Mean Field Games with Hörmander diffusions, _Seminari di Equazioni Differenziali e Applicazioni_, University of Padova, Italy, December 4, 2017. [Slides (PDF)](/docs/talks/2017_Padova_MFG-Hormander-diffusions.pdf)
+
 1. Eikonal equations structured on non-smooth Hörmander type vector fields, _LMS Network meeting "Generalised Solutions for Nonlinear PDEs"_ (Cardiff, Bath and Reading), University of Bath, UK, July 11, 2016. [Slides (PDF)](/docs/talks/2016_Bath_eikonal-equations.pdf)
 
 1. Hölder continuity for solutions of eikonal equations, _New Trends on Nonlinear PDEs: From Theory to Applications_, Cardiff University, UK, June 22, 2016. [Slides (PDF)](/docs/talks/2016_Cardiff_Holder-continuity.pdf)
